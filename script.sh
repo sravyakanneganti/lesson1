@@ -1,2 +1,2 @@
-cd /var/lib/jenkins/sravya && rm rose
-echo "bla bla bla" > bangalore
+cd /var/lib/jenkins/sravya
+echo "bla bla bla" > chennai
